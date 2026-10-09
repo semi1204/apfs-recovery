@@ -1,0 +1,7 @@
+*.db
+*.json
+*.tsv
+*.log
+*.bin
+out/
+__pycache__/
